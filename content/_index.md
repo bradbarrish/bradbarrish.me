@@ -2,14 +2,14 @@
 title: CV
 ---
 # Brad Barrish
-Highly creative customer experience leader focused on developing products and companies that help people live better and improve the world. Exceptional people manager, team builder and problem solver with deep experience across music technology and consumer electronics. 
+Highly creative customer experience leader focused on developing products and companies that help people live better and improve the world. Exceptional people manager, team builder and problem solver with deep experience across music technology and consumer electronics.
 
 {{% grid %}}
 
 {{% column -span-cols-6 -m-right-2 %}}
 ## Professional Experience
 ###### *May 2019 - Present*
-### Sonos, Inc. — Director, Customer Experience 
+### Sonos, Inc. — Director, Customer Experience
 
 As the Customer Experience leader for Sonos, I’m responsible for deeply understanding our customers’ pain points through direct feedback and large data sets. I work across product and commercial teams to help create multi-modal customer-centric experiences. I’m ultimately responsible for charting the course for how we will care for customers in the future and what technologies we will leverage to provide world class support.
 
@@ -34,6 +34,7 @@ Helped establish Topspin as the pioneer direct-to-consumer technology platform f
 ### Buzznet — Head of Music Industry Relations
 
 Shaped Buzznet's music strategy, acted as the product manager for an audio / video content management system and worked with Buzznet's design team on the site's overall UX. I created promotional and marketing opportunities for labels and artists, helping to grow the Buzznet community and generating lucrative sponsorship opportunities. This included creating, booking and overseeing the production of an in-house studio and performance space that hosted over 25 performances by artists including Adele, The Ting Tings, The All-American Rejects and Rivers Cuomo of Weezer fame for Stereogum.
+
 
 ### Further professional career experience available upon request or by visiting [my LinkedIn profile](https://www.linkedin.com/in/bbarrish/).
 
@@ -62,7 +63,7 @@ Advised on direct-to-consumer marketing best practices, mentored creators and pr
   * Product management
   * Product development
   * macOS and iOS
-  * Google G Suite 
+  * Google G Suite
 
 #### Familiar with
   * Agile software development
@@ -74,7 +75,7 @@ Advised on direct-to-consumer marketing best practices, mentored creators and pr
   * Voice tech
   * Fitness tech
   * Privacy tech
-  * Machine learning 
+  * Machine learning
 
 
 #### Other Info
