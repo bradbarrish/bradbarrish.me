@@ -36,7 +36,7 @@ Helped establish Topspin as the pioneer direct-to-consumer technology platform f
 Shaped Buzznet's music strategy, acted as the product manager for an audio / video content management system and worked with Buzznet's design team on the site's overall UX. I created promotional and marketing opportunities for labels and artists, helping to grow the Buzznet community and generating lucrative sponsorship opportunities. This included creating, booking and overseeing the production of an in-house studio and performance space that hosted over 25 performances by artists including Adele, The Ting Tings, The All-American Rejects and Rivers Cuomo of Weezer fame for Stereogum.
 
 
-### Further professional career experience available upon request or by visiting [my LinkedIn profile](https://www.linkedin.com/in/bbarrish/).
+#### Further professional career experience available upon request or by visiting [my LinkedIn profile](https://www.linkedin.com/in/bbarrish/).
 
 ## Advisory Experience
 ###### *January 2017 - Present*
