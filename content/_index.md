@@ -12,9 +12,9 @@ Highly creative customer experience leader focused on developing products and co
 
 ## Professional Experience
 
-### **Sonos, Inc. -- Director, Customer Experience**
-
 ### _March 2014 - Present_
+
+### **Sonos, Inc. -- Director, Customer Experience**
 
 As the Customer Experience leader for Sonos, I'm responsible for deeply understanding customer pain points through direct feedback and large data sets. I work across Product and Go-To-Market teams to help create multi-modal, customer experiences. I chart the course for how Sonos will care for customers in the future and what technologies we will leverage to provide world class support.
 
@@ -22,9 +22,9 @@ Outside of my day-to-day responsibilities, I also work closely with our People t
 
 Prior to becoming Director of Customer Experience, I held two other positions - Director, Customer Care Experience and Director, Customer Care Content & Insights.
 
-### **Topspin Media -- Head of Operations**
-
 ### _June 2009 - January 2014_
+
+### **Topspin Media -- Head of Operations**
 
 As Head of Operations and a member of the senior management team, I architected and oversaw the implementation of the company's customer support strategy as well as ongoing performance analysis. This included web, email, social and phone support across the world, management of warehouse and logistics partners, implementation of warehouse management system integration and product management for the Topspin platform.
 
