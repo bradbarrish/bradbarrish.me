@@ -20,8 +20,9 @@ As the Customer Experience leader for Sonos, I'm responsible for deeply understa
 
 Outside of my day-to-day responsibilities, I also work closely with our People team on programs that improve the culture of Sonos such as Employee Experience (EX), developing our annual employee survey and management programs.
 
+
 ### Director, Customer Care Experience
-#### _May 2016 - May 2019_
+_May 2016 - May 2019_
 
 #### _March 2014 - May 2016_
 
