@@ -12,7 +12,7 @@ Highly creative customer experience leader focused on developing products and co
 
 ## Professional Experience
 
-### Sonos, Inc. -- Director, Customer Experience
+### **Sonos, Inc. -- Director, Customer Experience**
 
 ### _March 2014 - Present_
 
