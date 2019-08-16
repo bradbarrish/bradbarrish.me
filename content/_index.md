@@ -24,13 +24,12 @@ Outside of my day-to-day responsibilities, I also work closely with our People t
 ### Director, Customer Care Experience
 _May 2016 - May 2019_
 
-#### _March 2014 - May 2016_
-
 ### Director, Customer Care Content & Insights
-
-#### _June 2009 - January 2014_
+_March 2014 - May 2016_
 
 ### Topspin Media -- Head of Operations
+#### _June 2009 - January 2014_
+
 
 As Head of Operations and a member of the senior management team, I architected and oversaw the implementation of the company's customer support strategy as well as ongoing performance analysis. This included web, email, social and phone support across the world, management of warehouse and logistics partners, implementation of warehouse management system integration and product management for the Topspin platform.
 
@@ -44,7 +43,7 @@ Helped establish Topspin as the pioneer direct-to-consumer technology platform f
 
 ### Buzznet -- Head of Music Industry Relations
 
-Shaped Buzznet's music strategy, acted as the product manager for an audio / video content management system and worked with Buzznet's design team on the site's overall UX. I created promotional and marketing opportunities for labels and artists, helping to grow the Buzznet community and generating lucrative sponsorship opportunities. This included creating, booking and overseeing the production of an in-house studio and performance space that hosted over 25 performances by artists including Adele, The Ting Tings, The All-American Rejects and Rivers Cuomo of Weezer fame for Stereogum.
+I shaped Buzznet's music strategy, acted as the product manager for an audio / video content management system and worked with Buzznet's design team on the site's overall UX. I created promotional and marketing opportunities for labels and artists, helping to grow the Buzznet community and generating lucrative sponsorship opportunities. This included creating, booking and overseeing the production of an in-house studio and performance space that hosted over 25 performances by artists including for Stereogum.
 
 #### Further professional career experience available upon request or by visiting [my LinkedIn profile](https://www.linkedin.com/in/bbarrish/).
 
@@ -66,7 +65,7 @@ The Customer Experience Advisory Board (CX@Rutgers) is an invitation-only board,
 
 ### Fame House -- Advisory Board Member
 
-Advised on direct-to-consumer marketing best practices, mentored creators and provided creative assistance on marketing plans. Company was acquired by Universal Music Group.
+Advised on direct-to-consumer marketing best practices, mentored creators and provided creative assistance on marketing plans. The company was acquired by Universal Music Group.
 
 {{% /column %}}
 
