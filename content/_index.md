@@ -21,7 +21,7 @@ Outside of my day-to-day responsibilities, I also work closely with our People t
 
 Prior to becoming Director of Customer Experience, I held two other positions - Director, Customer Care Experience and Director, Customer Care Content & Insights.
 
-**Topspin Media -- Head of Operations** <br/><br/>
+**Topspin Media -- Head of Operations** <br/>
 _June 2009 - January 2014_
 
 As Head of Operations and a member of the senior management team, I architected and oversaw the implementation of the company's customer support strategy as well as ongoing performance analysis. This included web, email, social and phone support across the world, management of warehouse and logistics partners, implementation of warehouse management system integration and product management for the Topspin platform.
