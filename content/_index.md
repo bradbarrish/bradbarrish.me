@@ -12,17 +12,16 @@ Highly creative customer experience leader focused on developing products and co
 
 ## Professional Experience
 
-### _March 2014 - Present_
-
 ### Sonos, Inc. -- Director, Customer Experience
+
+### _March 2014 - Present_
 
 As the Customer Experience leader for Sonos, I'm responsible for deeply understanding customer pain points through direct feedback and large data sets. I work across Product and Go-To-Market teams to help create multi-modal, customer experiences. I chart the course for how Sonos will care for customers in the future and what technologies we will leverage to provide world class support.
 
 Outside of my day-to-day responsibilities, I also work closely with our People team on programs that improve the culture of Sonos such as Employee Experience (EX), developing our annual employee survey and management programs.
 
-#### _May 2016 - May 2019_
-
 ### Director, Customer Care Experience
+#### _May 2016 - May 2019_
 
 #### _March 2014 - May 2016_
 
@@ -74,13 +73,13 @@ Advised on direct-to-consumer marketing best practices, mentored creators and pr
 
 #### Fluent with
 
-- Design Thinking and process
+- Design Thinking
 - User Experience (UX)
-- Product management
+- Product Management
 - Software and hardware product development process
 - macOS, iOS and Android
 - Google G Suite
-- Consumer insights
+- Consumer Insights
 
 #### Familiar with
 
