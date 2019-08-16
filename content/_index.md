@@ -19,7 +19,7 @@ As the Customer Experience leader for Sonos, I'm responsible for deeply understa
 
 Outside of my day-to-day responsibilities, I also work closely with our People team on programs that improve the culture of Sonos such as Employee Experience (EX), developing our annual employee survey and management programs.
 
-Prior to becoming Director of Customer Experience, I held two other positions - Director, Customer Care Experience and Director, Customer Care Content & Insights.
+Prior to becoming Director of Customer Experience, I held two other positions - Director, Customer Care Experience and Director, Customer Care Content & Insights.<br/>
 
 **Topspin Media -- Head of Operations** <br/>
 _June 2009 - January 2014_
