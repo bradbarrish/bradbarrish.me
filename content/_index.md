@@ -22,13 +22,13 @@ Outside of my day-to-day responsibilities, I also work closely with our People t
 
 #### _May 2016 - May 2019_
 
-### Sonos, Inc. -- Director, Customer Care Experience
+### Director, Customer Care Experience
 
 #### _March 2014 - May 2016_
 
-### Sonos, Inc. -- Director, Customer Care Content & Insights
+### Director, Customer Care Content & Insights
 
-#### _June 2011 - January 2014_
+#### _June 2009 - January 2014_
 
 ### Topspin Media -- Head of Operations
 
@@ -36,7 +36,7 @@ As Head of Operations and a member of the senior management team, I architected 
 
 #### _May 2009 - June 2011_
 
-### Topspin Media -- Head of West Coast Sales
+### Head of West Coast Sales
 
 Helped establish Topspin as the pioneer direct-to-consumer technology platform for creators. As Head of West Coast Sales, I leveraged and built upon my deep relationships in the music industry - major and indie labels, artists and artist managers - helping the company scale from tens of artists to thousands. I brokered a partnership with Viacom/MTV, which became the basis for MTV's Artist Platform.
 
