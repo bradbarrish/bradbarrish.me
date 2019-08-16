@@ -49,21 +49,22 @@ I shaped Buzznet's music strategy, acted as the product manager for an audio / v
 
 ## Advisory Experience
 
+### Techstars -- Techstars Music Mentor
+
 ### _January 2017 - Present_
 
-### Techstars -- Techstars Music Mentor
 
 Techstars Music is a startup accelerator run by Techstars and leading companies from the global music business: Warner Music Group, Peloton, Silva Artist Management, Bill Silva Entertainment, QPrime Management, Concord Music, Avex Inc., Royalty Exchange, and RecoChoku.
 
-#### _July 2018 - Present_
-
 ### Rutgers University -- Customer Experience Advisory Board Member
+
+#### _July 2018 - Present_
 
 The Customer Experience Advisory Board (CX@Rutgers) is an invitation-only board, part of Rutgers Center for Innovation Education. The program is a unique professional education learning experience opportunity, helping to solve real world problems.
 
-#### _May 2012 - November 2013_
-
 ### Fame House -- Advisory Board Member
+
+#### _May 2012 - November 2013_
 
 Advised on direct-to-consumer marketing best practices, mentored creators and provided creative assistance on marketing plans. The company was acquired by Universal Music Group.
 
