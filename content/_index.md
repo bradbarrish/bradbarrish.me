@@ -12,7 +12,7 @@ Highly creative customer experience leader focused on developing products and co
 
 ## Professional Experience
 
-### _May 2019 - Present_
+### _March 2014 - Present_
 
 ### Sonos, Inc. -- Director, Customer Experience
 
@@ -20,13 +20,9 @@ As the Customer Experience leader for Sonos, I'm responsible for deeply understa
 
 Outside of my day-to-day responsibilities, I also work closely with our People team on programs that improve the culture of Sonos such as Employee Expeience (EX), developing our annual employee survey and management programs.
 
-#### _May 2016 - May 2019_
+### Sonos, Inc. -- Director, Customer Care Experience (_May 2016 - May 2019_)
 
-### Sonos, Inc. -- Director, Customer Care Experience
-
-#### _March 2014 - May 2016_
-
-### Sonos, Inc. -- Director, Customer Care Content & Insights
+### Sonos, Inc. -- Director, Customer Care Content & Insights (_March 2014 - May 2016_)
 
 #### _June 2011 - January 2014_
 
