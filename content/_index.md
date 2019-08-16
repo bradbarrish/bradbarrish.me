@@ -20,14 +20,16 @@ As the Customer Experience leader for Sonos, I'm responsible for deeply understa
 
 Outside of my day-to-day responsibilities, I also work closely with our People team on programs that improve the culture of Sonos such as Employee Experience (EX), developing our annual employee survey and management programs.
 
-**Director, Customer Care Experience**
-_May 2016 - May 2019_
+### **Director, Customer Care Experience**
 
-**Director, Customer Care Content & Insights**
-_March 2014 - May 2016_
+### _May 2016 - May 2019_
 
-### Topspin Media -- Head of Operations
-#### _June 2009 - January 2014_
+### **Director, Customer Care Content & Insights**
+
+### _March 2014 - May 2016_
+
+### **Topspin Media -- Head of Operations**
+### _June 2009 - January 2014_
 
 
 As Head of Operations and a member of the senior management team, I architected and oversaw the implementation of the company's customer support strategy as well as ongoing performance analysis. This included web, email, social and phone support across the world, management of warehouse and logistics partners, implementation of warehouse management system integration and product management for the Topspin platform.
