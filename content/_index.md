@@ -22,38 +22,39 @@ Outside of my day-to-day responsibilities, I also work closely with our People t
 Prior to becoming Director of Customer Experience, I held two other positions - Director, Customer Care Experience and Director, Customer Care Content & Insights. <br/><br/>
 
 **Topspin Media -- Head of Operations** <br/>
+
 _June 2009 - January 2014_
 
 As Head of Operations and a member of the senior management team, I architected and oversaw the implementation of the company's customer support strategy as well as ongoing performance analysis. This included web, email, social and phone support across the world, management of warehouse and logistics partners, implementation of warehouse management system integration and product management for the Topspin platform.
 
-Prior to running operations for Topspin, I helped establish the company as the pioneer direct-to-consumer technology platform for creators. As Head of West Coast Sales, I leveraged and built upon my deep relationships in the music industry - major and indie labels, artists and artist managers - helping the company scale from tens of artists to thousands. I brokered a partnership with Viacom/MTV, which became the basis for MTV's Artist Platform.
+Prior to running operations for Topspin, I helped establish the company as the pioneer direct-to-consumer technology platform for creators. As Head of West Coast Sales, I leveraged and built upon my deep relationships in the music industry - major and indie labels, artists and artist managers - helping the company scale from tens of artists to thousands. I brokered a partnership with Viacom/MTV, which became the basis for MTV's Artist Platform. <br/><br/>
 
-### **Buzznet -- Head of Music Industry Relations**
+**Buzznet -- Head of Music Industry Relations** <br/>
 
-### _February 2008 - February 2009_
+_February 2008 - February 2009_
 
 While at Buzznet, I shaped the company's music strategy, acted as the product manager for an audio / video content management system and worked with Buzznet's design team on the site's overall UX. I created promotional and marketing opportunities for labels and artists, helping to grow the Buzznet community and generating lucrative sponsorship opportunities. This included creating, booking and overseeing the production of an in-house studio and performance space that hosted over 25 performances by major recording artists for Stereogum, one of the top music blogs of the time with tens of millions of views per month.
 
-#### Further professional career experience available upon request or by visiting [my LinkedIn profile](https://www.linkedin.com/in/bbarrish/).
+**Further professional career experience available upon [request](mailto:brad@bradbarrish.com) or by visiting [my LinkedIn profile](https://www.linkedin.com/in/bbarrish/).**
 
 ## Advisory Experience
 
-### **Techstars -- Techstars Music Mentor**
+**Techstars -- Techstars Music Mentor** <br/>
 
-### _January 2017 - Present_
+_January 2017 - Present_
 
-Techstars Music is a startup accelerator run by Techstars and leading companies from the global music business: Warner Music Group, Peloton, Silva Artist Management, Bill Silva Entertainment, QPrime Management, Concord Music, Avex Inc., Royalty Exchange, and RecoChoku.
+Techstars Music is a startup accelerator run by Techstars and leading companies from the global music business: Warner Music Group, Peloton, Silva Artist Management, Bill Silva Entertainment, QPrime Management, Concord Music, Avex Inc., Royalty Exchange, and RecoChoku. <br/><br/>
 
 
-### **Rutgers University -- Customer Experience Advisory Board Member**
+**Rutgers University -- Customer Experience Advisory Board Member** <br/>
 
-### _July 2018 - Present_
+_July 2018 - Present_
 
-The Customer Experience Advisory Board (CX@Rutgers) is an invitation-only board, part of Rutgers Center for Innovation Education. The program is a unique professional education learning experience opportunity, helping to solve real world problems.
+The Customer Experience Advisory Board (CX@Rutgers) is an invitation-only board, part of Rutgers Center for Innovation Education. The program is a unique professional education learning experience opportunity, helping to solve real world problems. <br/><br/>
 
-### _**Fame House -- Advisory Board Member**_
+**Fame House -- Advisory Board Member** <br/>
 
-### _May 2012 - November 2013_
+_May 2012 - November 2013_
 
 Advised on direct-to-consumer marketing best practices, mentored creators and provided creative assistance on marketing plans. The company was acquired by Universal Music Group.
 
