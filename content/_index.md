@@ -74,24 +74,26 @@ Advised on direct-to-consumer marketing best practices, mentored creators and pr
 
 #### Fluent with
 
-- Design Thinking
+- Design Thinking and process
 - User Experience (UX)
 - Product management
 - Software and hardware product development process
 - macOS, iOS and Android
 - Google G Suite
+- Consumer insights
 
 #### Familiar with
 
 - Agile software development
 - User research
+- User surveys
 - Usability testing
 
 #### Interested in
 
 - Modern technology architectures (e.g. JAMstack, Hugo, Gatsby, Netlify)
 - Voice tech
-- Fitness tech
+- Health and fitness tech
 - Privacy tech
 - Machine learning 
 
@@ -99,7 +101,7 @@ Advised on direct-to-consumer marketing best practices, mentored creators and pr
 
  ## Hobbies/Interests
 
-I'm the creator, producer and host of a podcast about death and dying called [Departed](https://departed.fm), launching later this year. I consume a seemingly impossible amount of information through reading and listening books (I'm currently reading [Reboot: Leadership and the Art of Growing Up by Jerry Colonna](https://amzn.to/2LIbSan)), listening to podcasts and reading through my RSS feeds. I'm a reluctant CTO for family and friends. I enjoy rock climbing, high-intensity interval training (HIIT), skateboarding and snowboarding. I listen to music constantly - everything from classical to ambient electronic to avant-garde jazz to indie rock.
+I'm the creator, producer and host of a podcast about death and dying called [Departed](https://departed.fm), launching later this year. I consume a seemingly impossible amount of information through reading and listening books (I'm currently reading [Reboot: Leadership and the Art of Growing Up by Jerry Colonna](https://amzn.to/2LIbSan)), listening to podcasts and reading through my RSS feeds. I'm a reluctant Family and Friends CTO. I enjoy rock climbing, high-intensity interval training (HIIT), skateboarding and snowboarding and all the gear that goes along with the activities. I listen to music constantly - everything from classical to ambient electronic to avant-garde jazz to indie rock.
 
 {{% printonly %}}
 
