@@ -20,11 +20,10 @@ As the Customer Experience leader for Sonos, I'm responsible for deeply understa
 
 Outside of my day-to-day responsibilities, I also work closely with our People team on programs that improve the culture of Sonos such as Employee Experience (EX), developing our annual employee survey and management programs.
 
-
-### Director, Customer Care Experience
+**Director, Customer Care Experience**
 _May 2016 - May 2019_
 
-### Director, Customer Care Content & Insights
+**Director, Customer Care Content & Insights**
 _March 2014 - May 2016_
 
 ### Topspin Media -- Head of Operations
@@ -54,7 +53,7 @@ I shaped Buzznet's music strategy, acted as the product manager for an audio / v
 ### _January 2017 - Present_
 
 Techstars Music is a startup accelerator run by Techstars and leading companies from the global music business: Warner Music Group, Peloton, Silva Artist Management, Bill Silva Entertainment, QPrime Management, Concord Music, Avex Inc., Royalty Exchange, and RecoChoku.
- 
+
 
 ### Rutgers University -- Customer Experience Advisory Board Member
 
