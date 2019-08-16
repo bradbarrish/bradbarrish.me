@@ -53,7 +53,7 @@ Techstars Music is a startup accelerator run by Techstars and leading companies 
 
 The Customer Experience Advisory Board (CX@Rutgers) is an invitation-only board, part of Rutgers Center for Innovation Education. The program is a unique professional education learning experience opportunity, helping to solve real world problems.
 
-### **Fame House -- Advisory Board Member**
+### _**Fame House -- Advisory Board Member**_
 
 ### _May 2012 - November 2013_
 
