@@ -18,24 +18,25 @@ Highly creative customer experience leader focused on developing products and co
 
 As the Customer Experience leader for Sonos, I'm responsible for deeply understanding customer pain points through direct feedback and large data sets. I work across Product and Go-To-Market teams to help create multi-modal, customer experiences. I chart the course for how Sonos will care for customers in the future and what technologies we will leverage to provide world class support.
 
-Outside of my day-to-day responsibilities, I also work closely with our People team on programs that improve the culture of Sonos such as Employee Experience (EX), developing our annual employee survey and management programs.
+Outside of my day-to-day responsibilities, I also work closely with our People team on programs that improve the culture of Sonos such as Employee Expeience (EX), developing our annual employee survey and management programs.
 
+#### _May 2016 - May 2019_
 
-### Director, Customer Care Experience
-_May 2016 - May 2019_
+### Sonos, Inc. -- Director, Customer Care Experience
 
+#### _March 2014 - May 2016_
 
-### Director, Customer Care Content & Insights
-_March 2014 - May 2016_
+### Sonos, Inc. -- Director, Customer Care Content & Insights
 
-
-#### _May 2009 - January 2014_
+#### _June 2011 - January 2014_
 
 ### Topspin Media -- Head of Operations
 
 As Head of Operations and a member of the senior management team, I architected and oversaw the implementation of the company's customer support strategy as well as ongoing performance analysis. This included web, email, social and phone support across the world, management of warehouse and logistics partners, implementation of warehouse management system integration and product management for the Topspin platform.
 
-### Head of West Coast Sales (_May 2009 - June 2011_)
+#### _May 2009 - June 2011_
+
+### Topspin Media -- Head of West Coast Sales
 
 Helped establish Topspin as the pioneer direct-to-consumer technology platform for creators. As Head of West Coast Sales, I leveraged and built upon my deep relationships in the music industry - major and indie labels, artists and artist managers - helping the company scale from tens of artists to thousands. I brokered a partnership with Viacom/MTV, which became the basis for MTV's Artist Platform.
 
