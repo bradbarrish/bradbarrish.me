@@ -53,8 +53,8 @@ I shaped Buzznet's music strategy, acted as the product manager for an audio / v
 
 ### _January 2017 - Present_
 
-
 Techstars Music is a startup accelerator run by Techstars and leading companies from the global music business: Warner Music Group, Peloton, Silva Artist Management, Bill Silva Entertainment, QPrime Management, Concord Music, Avex Inc., Royalty Exchange, and RecoChoku.
+ 
 
 ### Rutgers University -- Customer Experience Advisory Board Member
 
