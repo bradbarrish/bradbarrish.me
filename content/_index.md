@@ -22,11 +22,11 @@ Outside of my day-to-day responsibilities, I also work closely with our People t
 
 
 ### Director, Customer Care Experience
-#### _May 2016 - May 2019_
+_May 2016 - May 2019_
 
 
 ### Director, Customer Care Content & Insights
-#### _March 2014 - May 2016_
+_March 2014 - May 2016_
 
 
 #### _May 2009 - January 2014_
